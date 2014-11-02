@@ -10,6 +10,8 @@
 
 @interface StartViewController ()
 
+@property (nonatomic, strong) NSString *string;
+
 @end
 
 @implementation StartViewController
